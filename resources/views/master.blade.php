@@ -20,6 +20,22 @@
         height: 500px;
         padding-top: 100px;
     }
+    .trending-image{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+    }
+    .trending-item{
+        float: left;
+        width: 20%;
+    }
+    .trending-Wrapper{
+        margin: 30px;
+    }
+    .detail-img{
+        height: 200px;
+    }
 </style>
 </head>
 <body>
